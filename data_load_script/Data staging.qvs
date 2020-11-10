@@ -11,5 +11,4 @@ FROM "CG_GAIA".dbo.MovimentiMagazzino1tri2019;
 store * from MovimentiMagazzino into [lib://Gaia_dati (consilia_qlikadmin)/MovimentiMagazzino.qvd](qvd);
 drop Table MovimentiMagazzino;
 
-// 1 = 2
 DISCONNECT;
