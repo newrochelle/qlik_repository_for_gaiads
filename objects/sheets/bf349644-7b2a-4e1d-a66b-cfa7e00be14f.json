@@ -1,0 +1,29 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "bf349644-7b2a-4e1d-a66b-cfa7e00be14f",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "Il mio nuovo foglio",
+      "description": ""
+    },
+    "rank": 0,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    },
+    "columns": 24,
+    "rows": 12,
+    "cells": [],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    },
+    "gridResolution": "small",
+    "layoutOptions": {
+      "mobileLayout": "LIST"
+    }
+  },
+  "qChildren": []
+}
