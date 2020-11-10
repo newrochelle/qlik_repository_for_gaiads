@@ -1,0 +1,15 @@
+///$tab Data staging
+Timesheet:
+SQL SELECT *
+FROM "CG_GAIA".dbo.DettaglioTimesheet1tri2019;
+store * from Timesheet into [lib://Gaia_dati (consilia_qlikadmin)/Timesheet.qvd](qvd);
+drop Table Timesheet;
+
+MovimentiMagazzino:
+SQL SELECT *
+FROM "CG_GAIA".dbo.MovimentiMagazzino1tri2019;
+store * from MovimentiMagazzino into [lib://Gaia_dati (consilia_qlikadmin)/MovimentiMagazzino.qvd](qvd);
+drop Table MovimentiMagazzino;
+
+// 1 = 2
+DISCONNECT;
