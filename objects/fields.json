@@ -1,1 +1,213 @@
-[]
+[
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Field",
+    "qCardinal": 12,
+    "qTags": [
+      "$key",
+      "$hidden",
+      "$system",
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$FieldNo",
+    "qCardinal": 9,
+    "qTags": [
+      "$hidden",
+      "$system",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Fields",
+    "qCardinal": 3,
+    "qTags": [
+      "$hidden",
+      "$system",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Info",
+    "qCardinal": 1,
+    "qTags": [
+      "$hidden",
+      "$system",
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Rows",
+    "qCardinal": 3,
+    "qTags": [
+      "$hidden",
+      "$system",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Table",
+    "qCardinal": 3,
+    "qTags": [
+      "$key",
+      "$hidden",
+      "$system",
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qName": "Alpha",
+    "qCardinal": 26,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Characters"
+    ]
+  },
+  {
+    "qName": "AsciiAlpha",
+    "qCardinal": 191,
+    "qTags": [],
+    "qSrcTables": [
+      "ASCII"
+    ]
+  },
+  {
+    "qName": "AsciiNum",
+    "qCardinal": 191,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "ASCII"
+    ]
+  },
+  {
+    "qName": "Dim1",
+    "qCardinal": 3,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Transactions"
+    ]
+  },
+  {
+    "qName": "Dim2",
+    "qCardinal": 6,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Transactions"
+    ]
+  },
+  {
+    "qName": "Dim3",
+    "qCardinal": 3,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Transactions"
+    ]
+  },
+  {
+    "qName": "Expression1",
+    "qCardinal": 449,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Transactions"
+    ]
+  },
+  {
+    "qName": "Expression2",
+    "qCardinal": 9,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Transactions"
+    ]
+  },
+  {
+    "qName": "Expression3",
+    "qCardinal": 1899,
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Transactions"
+    ]
+  },
+  {
+    "qName": "Num",
+    "qCardinal": 26,
+    "qTags": [
+      "$key",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Characters",
+      "ASCII",
+      "Transactions"
+    ]
+  },
+  {
+    "qName": "TransID",
+    "qCardinal": 1000,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Transactions"
+    ]
+  },
+  {
+    "qName": "TransLineID",
+    "qCardinal": 10,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Transactions"
+    ]
+  }
+]

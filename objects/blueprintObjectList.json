@@ -3,15 +3,24 @@
     {
       "qId": "297bec36-80f5-45ee-88ff-189e5c181494",
       "qType": "appprops",
-      "modifiedDate": "2020-10-29T16:51:46.721Z"
+      "modifiedDate": "2020-11-10T17:32:14.544Z"
+    },
+    {
+      "qId": "KzMBdfN",
+      "qType": "kpi"
     },
     {
       "qId": "LoadModel",
       "qType": "LoadModel"
     },
     {
+      "qId": "Muxtryk",
+      "qType": "barchart"
+    },
+    {
       "qId": "bf349644-7b2a-4e1d-a66b-cfa7e00be14f",
-      "qType": "sheet"
+      "qType": "sheet",
+      "modifiedDate": "2020-11-10T17:32:14.544Z"
     }
   ]
 }

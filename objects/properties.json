@@ -1,13 +1,14 @@
 {
   "qTitle": "GAIA DS",
-  "qLastReloadTime": "2020-09-28T08:08:16.279Z",
+  "qLastReloadTime": "2020-11-11T09:03:30.800Z",
   "qMigrationHash": "504d4e39a7133ee172fbe29aa58348b1e4054149",
   "qSavedInProductVersion": "12.811.3",
   "qThumbnail": {
     "qUrl": "/appcontent/3c88703f-f33c-4f98-9815-18b544afa435/LogoGaia.png"
   },
+  "hassectionaccess": false,
   "createdDate": "2020-10-29T16:51:46.483Z",
-  "modifiedDate": "2020-11-10T17:04:03.593Z",
+  "modifiedDate": "2020-11-10T17:32:14.908Z",
   "published": false,
   "publishTime": "1753-01-01T00:00:00.000Z",
   "description": "",
